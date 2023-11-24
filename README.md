@@ -9,3 +9,7 @@ Paquetes necesarios (Linux):
 - `g++`.
 - `binutils`.
 - `libc6-dev-i386`.
+
+## Estado
+
+- [] Aprendiendo Assembly.
