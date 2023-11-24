@@ -1,3 +1,5 @@
+![sxdnyOS](sxdnyOS.jpg)
+
 # sxdnyOS
 Sistema operativo en C++.
 
