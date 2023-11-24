@@ -12,4 +12,4 @@ Paquetes necesarios (Linux):
 
 ## Estado
 
-- [] Aprendiendo Assembly.
+- [ ] Aprendiendo Assembly.
